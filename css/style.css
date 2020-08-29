@@ -145,6 +145,7 @@ ul.cd-dropdown-content li {
 	color: #F44336;
 	vertical-align: sub;
 	margin-right: 3px;
+	font-family: inherit;
 }
 .header-logo h1 a i,.footer-logo.header-logo h2 a i{
     display: block;
