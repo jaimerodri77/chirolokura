@@ -510,9 +510,24 @@ h3.w3ls-title {
     padding: .5em 0;
     margin: 0 auto;
 }
+.w3ls-wha {
+    display: block;
+    background: #1DC521;
+    color: #fff;
+    font-size: 1em;
+    text-align: center;
+    border-radius: 3px;
+    border: 1px solid;
+    width: 80%;
+    outline: none;
+    padding: .5em 0;
+    margin: 0 auto;
+}
+
 .w3ls-cart i.fa{
     margin-right: 6px;
-} 
+}
+
 /*-- //welcome --*/
 /*-- add-products --*/
 .w3ls-add-grids {
